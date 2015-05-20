@@ -1,0 +1,262 @@
+[
+    {
+        "question": {
+            "A": " 将车停在路边 ",
+            "B": " 慢车并靠在左边车道",
+            "C": " 加速驾驶以免阻塞交通"
+        },
+        "name": "题库 8 Question 1",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 转弯前要让路给行人",
+            "B": " 转弯前不需要让路给行人 ",
+            "C": "  有优先权行驶"
+        },
+        "name": "题库 8 Question 2",
+        "imgName": "题库 8_2.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 调入高速排挡 ",
+            "B": " 调入低速排挡 ",
+            "C": " 调入空挡"
+        },
+        "name": "题库 8 Question 3",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 让路给他",
+            "B": " 与他赛车",
+            "C": " 他的车失控"
+        },
+        "name": "题库 8 Question 4",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 闪亮车头大灯",
+            "B": " 关掉车头大灯",
+            "C": " 调低车头大灯 "
+        },
+        "name": "题库 8 Question 5",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 开亮车头大灯 ",
+            "B": " 闪亮车头大灯",
+            "C": " 调低车头大灯 "
+        },
+        "name": "题库 8 Question 6",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 车道前方有阻碍，但还可以通行",
+            "B": " 车道关闭不可通行",
+            "C": " 前方有交通意外"
+        },
+        "name": "题库 8 Question 7",
+        "imgName": "题库 8_7.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 尽快移向左边车道",
+            "B": "  在原来的车道慢速行驶",
+            "C": " 加速驾驶以免阻碍交通"
+        },
+        "name": "题库 8 Question 8",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 放慢车速",
+            "B": " 停车",
+            "C": " 加快速度"
+        },
+        "name": "题库 8 Question 9",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 确保所有司机能及时放慢驾驶",
+            "B": " 增加驾驶的难度",
+            "C": " 节省汽油"
+        },
+        "name": "题库 8 Question 10",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 不超过60km/h",
+            "B": " 不超过50km/h",
+            "C": " 保持载号排挡速度"
+        },
+        "name": "题库 8 Question 11",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 所有的车灯",
+            "B": " 刹车器",
+            "C": " 轮子"
+        },
+        "name": "题库 8 Question 12",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 前轮",
+            "B": " 后轮",
+            "C": " 驾驶盘"
+        },
+        "name": "题库 8 Question 13",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 拉上手拉制动器 ",
+            "B": " 踩踏离合器",
+            "C": " 踩踏加速器"
+        },
+        "name": "题库 8 Question 14",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": "  拉上手拉制动器",
+            "B": " 放松手拉制动器",
+            "C": " 踩踏离合器"
+        },
+        "name": "题库 8 Question 15",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 使自己的车更容易被其他公路使用者看到",
+            "B": " 使自己能看的更清楚",
+            "C": " 影响其他公路使用者的视线"
+        },
+        "name": "题库 8 Question 16",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 车辆必须在单白线之前停下",
+            "B": " 车辆可越过单白线之后停下",
+            "C": " 若没交通阻塞，车辆可慢速行驶"
+        },
+        "name": "题库 8 Question 17",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 继续驾驶直到下个出口",
+            "B": "  后退到错过的出口处",
+            "C": " 等着危险讯号灯等待机会"
+        },
+        "name": "题库 8 Question 18",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 7:30am 到9:30am",
+            "B": " 7:00am 到9:00am",
+            "C": " 8:00am 到10:00am"
+        },
+        "name": "题库 8 Question 19",
+        "imgName": "题库 8_19.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 5:00pm到8pm",
+            "B": " 4:30pm到730pm",
+            "C": " 4pm到7pm"
+        },
+        "name": "题库 8 Question 20",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 7:30am到8pm",
+            "B": " 7:30am到7:30pm",
+            "C": " 7:30am到8:30pm"
+        },
+        "name": "题库 8 Question 21",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 星期一至星期六",
+            "B": " 星期一至星期五",
+            "C": " 星期天至假日"
+        },
+        "name": "题库 8 Question 22",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 星期一至星期六",
+            "B": " 星期一至星期五",
+            "C": " 星期天至假日"
+        },
+        "name": "题库 8 Question 23",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 放慢速度",
+            "B": " 保持速度",
+            "C": " 增加速度"
+        },
+        "name": "题库 8 Question 24",
+        "imgName": "题库 8_24.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 前",
+            "B": " 后",
+            "C": " 间"
+        },
+        "name": "题库 8 Question 25",
+        "imgName": "题库 8_25.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 应该按响车笛",
+            "B": " 应该停在黄色标志内",
+            "C": " 任何时间不能停在黄色标志内"
+        },
+        "name": "题库 8 Question 26",
+        "imgName": "题库 8_26.jpg",
+        "answer": "C"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": {
+            "A": " 在繁忙时间内可以停在黄格内",
+            "B": " 所有车辆不可停在黄格内以免阻碍交通流量",
+            "C": " 在非繁忙时间内可以停在黄格内"
+        },
+        "name": "题库 3 Question 1",
+        "imgName": "题库 3_1.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 快速公路由此开始，车速应越快越好",
+            "B": " 快速哦工农路由此开始，司机应遵守快速公路的规则",
+            "C": " 隧道通路由此开始"
+        },
+        "name": "题库 3 Question 2",
+        "imgName": "题库 3_2.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 快速公路终点，放慢车速并遵守道路速度限制",
+            "B": " 快速公路终点，司机应停下后在开动车子",
+            "C": " 隧道道路终点，放慢速度"
+        },
+        "name": "题库 3 Question 3",
+        "imgName": "题库 3_3.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 所有车辆避雨处",
+            "B": " 电单车避雨处",
+            "C": " 前方有大雨"
+        },
+        "name": "题库 3 Question 4",
+        "imgName": "题库 3_4.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 白色手杖，放慢车速，必要时停车让盲人过马路",
+            "B": " 快速行驶以免撞到盲人",
+            "C": " 先鸣响车笛再将车辆驶过马路"
+        },
+        "name": "题库 3 Question 5",
+        "imgName": "题库 3_5.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 重型车辆停在此处将被强行拖走",
+            "B": " 所有车辆停在此处将被强行拖走",
+            "C": " 巴士车辆停在此处将被强行拖走"
+        },
+        "name": "题库 3 Question 6",
+        "imgName": "题库 3_6.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " ",
+            "B": " ",
+            "C": " "
+        },
+        "name": "题库 3 Question 7",
+        "imgName": "题库 3_6.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 地下行人通道",
+            "B": " 电动扶梯",
+            "C": " 行人天桥"
+        },
+        "name": "题库 3 Question 8",
+        "imgName": "题库 3_8.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 行人天桥",
+            "B": " 地下行人通道",
+            "C": " 电动扶梯"
+        },
+        "name": "题库 3 Question 9",
+        "imgName": "题库 3_9.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 行人不准在斑马线过道",
+            "B": " 行人必须在斑马线过道",
+            "C": " 地下行人通道"
+        },
+        "name": "题库 3 Question 10",
+        "imgName": "题库 3_10.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 红人，不准过马路",
+            "B": " 红人，可以过马路",
+            "C": " 红人，若马路上没有车辆是就可以过马路"
+        },
+        "name": "题库 3 Question 11",
+        "imgName": "题库 3_11.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 绿人，不可过马路",
+            "B": " 绿人闪动，可以开始过马路",
+            "C": " 绿人，开始过马路，但在闪动后开始过马路"
+        },
+        "name": "题库 3 Question 12",
+        "imgName": "题库 3_12.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 行人可以死在指示牌以内过马路",
+            "B": " 行人应在指示牌前过马路",
+            "C": " 行人不准在指示牌以内过马路"
+        },
+        "name": "题库 3 Question 13",
+        "imgName": "题库 3_13.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 前方有隧道",
+            "B": " 前方在进行公路维修",
+            "C": " 前方有汽车天桥"
+        },
+        "name": "题库 3 Question 14",
+        "imgName": "题库 3_14.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 运载易燃货品可以进入隧道",
+            "B": " 运载易燃物品的车辆不准进入隧道",
+            "C": " 运载易燃物品的车辆可以在路上行驶"
+        },
+        "name": "题库 3 Question 15",
+        "imgName": "题库 3_15.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " ”绿色箭头“车道可以使用",
+            "B": " 交通灯失灵",
+            "C": " 前方有意外发生"
+        },
+        "name": "题库 3 Question 16",
+        "imgName": "题库 3_16.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " ”橙色叉号闪动“前方有障碍物，慢行",
+            "B": " 交通灯失灵",
+            "C": " 前方有意外发生"
+        },
+        "name": "题库 3 Question 17",
+        "imgName": "题库 3_17.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " ”红灯叉号“车道禁止通行，车辆不准驶入",
+            "B": " 交通的灯失灵，放慢速度",
+            "C": " 交通灯失灵，立刻停车 "
+        },
+        "name": "题库 3 Question 18",
+        "imgName": "题库 3_18.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 在路口处停车",
+            "B": " 继续你的行程",
+            "C": " 先查看谁有优先行驶权才小心驶入"
+        },
+        "name": "题库 3 Question 19",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 行人必须等到没有车辆时才可越过马路",
+            "B": " 行人有越过行人过道的优先权利",
+            "C": " 没人带领的小孩有优先权"
+        },
+        "name": "题库 3 Question 20",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 表层的橡胶厚度少过1.6mm",
+            "B": " 轮胎没有花纹",
+            "C": " 轮胎爆胎"
+        },
+        "name": "题库 3 Question 21",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 白天",
+            "B": " 傍晚",
+            "C": " 任何时间"
+        },
+        "name": "题库 3 Question 22",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 你可以在标志后U 转",
+            "B": " 你可以在标志前U 转",
+            "C": " 不可U 转"
+        },
+        "name": "题库 3 Question 23",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 任何时间都不准在车道的两旁停泊车辆",
+            "B": " 早上0730至傍晚1930不准停泊车辆",
+            "C": " 不准超越其他车辆"
+        },
+        "name": "题库 3 Question 24",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 及时加快速度",
+            "B": " 保持原来 的速度",
+            "C": " 不要超速"
+        },
+        "name": "题库 3 Question 25",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 傍晚7pm 至早上7am",
+            "B": " 傍晚630pm至早上630am",
+            "C": " 傍晚730pm至早上730am"
+        },
+        "name": "题库 3 Question 26",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 行人",
+            "B": " 警察",
+            "C": " 公路使用者"
+        },
+        "name": "题库 3 Question 27",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 在开动车子前",
+            "B": " 当车子停放在交通路口",
+            "C": " 当车子开动之后"
+        },
+        "name": "题库 3 Question 28",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 踩踏刹车器",
+            "B": " 踩踏离合器",
+            "C": " 拉上手拉自动器"
+        },
+        "name": "题库 3 Question 29",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 倾斜倒退至直线位置",
+            "B": " 直线倒退至直线位置",
+            "C": " 倾斜到推至倾斜位置"
+        },
+        "name": "题库 3 Question 30",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 避免意外发生",
+            "B": " 使交通顺畅",
+            "C": " 随便鸣响无妨"
+        },
+        "name": "题库 3 Question 31",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 前方右轮靠近左边路堤",
+            "B": " 后方右轮靠近右边路堤",
+            "C": " 右边后轮靠近右边路堤"
+        },
+        "name": "题库 3 Question 32",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 9米",
+            "B": " 3米",
+            "C": " 6米"
+        },
+        "name": "题库 3 Question 33",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 在行人道3米之内不可停泊车辆",
+            "B": " 早上7am至晚上7pm不准在行人道停泊车辆",
+            "C": " 任何时间都不准停泊车辆"
+        },
+        "name": "题库 3 Question 34",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 不可超越其他车辆",
+            "B": " 若无行人可超越其他车辆",
+            "C": " 可超越前面停着的车辆"
+        },
+        "name": "题库 3 Question 35",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 用报纸将刹车器抹干",
+            "B": " 用右脚踩油，左脚踩刹车器来使刹车器恢复正常运作",
+            "C": " 开快车将刹车器吹干"
+        },
+        "name": "题库 3 Question 36",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 让其他司机容易看到你的位置",
+            "B": " 让司机看清前面的景物",
+            "C": " 使迎面而来的司机视线模糊"
+        },
+        "name": "题库 3 Question 37",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 车辆不得超越双白线",
+            "B": " 除了晚上7pm 至早上7am， 其他时间都不准停泊车辆车辆可以超越双白线",
+            "C": " 超车的时候可以越过双白线"
+        },
+        "name": "题库 3 Question 38",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 司机有意放慢速度",
+            "B": " 司机有意转左",
+            "C": " 司机有意转右"
+        },
+        "name": "题库 3 Question 39",
+        "imgName": "题库 3_39.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 3米",
+            "B": " 6米",
+            "C": " 9米"
+        },
+        "name": "题库 3 Question 40",
+        "imgName": "",
+        "answer": "A"
+    }
+]

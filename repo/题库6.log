@@ -1,0 +1,402 @@
+[
+    {
+        "question": {
+            "A": " 2-3秒",
+            "B": " 10-13秒",
+            "C": " 5-10秒"
+        },
+        "name": "题库 6 Question 1",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 将头转过去看过你的肩膀的地方",
+            "B": " 将眼睛左右转动",
+            "C": " 看左与看右"
+        },
+        "name": "题库 6 Question 2",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 你看不到前面车辆之前的景物",
+            "B": " 若前面的车辆突然刹车而造成车祸",
+            "C": " 会造成前面司机紧张"
+        },
+        "name": "题库 6 Question 3",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 促进公路上交通的顺畅",
+            "B": " 较少交通拥挤",
+            "C": " 保持公路上车辆间的安全距离"
+        },
+        "name": "题库 6 Question 4",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 当道路上没有其他的车辆",
+            "B": " 当道路上有交通警察",
+            "C": " 司机不应该从小路退入大路因为这将造成车祸"
+        },
+        "name": "题库 6 Question 5",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 增加就算装上新的轮胎",
+            "B": " 照旧一样",
+            "C": " 减少当装上新的轮胎"
+        },
+        "name": "题库 6 Question 6",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 增加",
+            "B": " 减少",
+            "C": " 保持不变"
+        },
+        "name": "题库 6 Question 7",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 采用紧急刹车来弄干刹车皮带",
+            "B": " 将车辆停下用纸巾将刹车皮带檫干",
+            "C": " 重复踩踏刹车器来弄干刹车皮带"
+        },
+        "name": "题库 6 Question 8",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 使司机避免意外发生",
+            "B": " 使司机避免受伤",
+            "C": " 使车辆免于损坏"
+        },
+        "name": "题库 6 Question 9",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 可以，因为您有两周的时间来更新",
+            "B": " 不可以，以为是犯法的",
+            "C": " 绝对不可以"
+        },
+        "name": "题库 6 Question 10",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 将车辆安全地驶到路边，启动危险信号灯才接电话",
+            "B": " 立刻在路边停车，马上回电",
+            "C": " 若交通顺畅，拿起手机马上回电"
+        },
+        "name": "题库 6 Question 11",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 高血压",
+            "B": " 糖尿病",
+            "C": " 发羊癫"
+        },
+        "name": "题库 6 Question 12",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 古董老爷车",
+            "B": " 载货货车",
+            "C": " ”L“ 牌学习驾驶车辆"
+        },
+        "name": "题库 6 Question 13",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 快速公路上",
+            "B": " 任何的车速",
+            "C": " 只用在开快车时"
+        },
+        "name": "题库 6 Question 14",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 出示讯号灯，马上停车",
+            "B": " 查看望后镜与盲点然后停车",
+            "C": " 使用间歇性停车"
+        },
+        "name": "题库 6 Question 15",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 只准许乘客立即上下车辆",
+            "B": " 准许车辆等候",
+            "C": " 准许停泊车辆"
+        },
+        "name": "题库 6 Question 16",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 右转车辆准备停车",
+            "B": " 继续右转",
+            "C": " 交通灯失灵，立刻停车 "
+        },
+        "name": "题库 6 Question 17",
+        "imgName": "题库 6_17.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " A车须停，让B车与C车先行",
+            "B": " B车须停，让A车与C车先行",
+            "C": " C车须停，让A车与B车先行"
+        },
+        "name": "题库 6 Question 18",
+        "imgName": "题库 6_18.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " A车先慢行，再继续行驶",
+            "B": " A 车应停车，然后再行驶",
+            "C": " A车像平时一样行驶"
+        },
+        "name": "题库 6 Question 19",
+        "imgName": "题库 6_19.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 放慢车速，准备停车",
+            "B": " 立刻停车",
+            "C": " 交通车失灵了"
+        },
+        "name": "题库 6 Question 20",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 行人过道，不准停泊",
+            "B": " 可以停泊车辆",
+            "C": " 可以停车等候"
+        },
+        "name": "题库 6 Question 21",
+        "imgName": "题库 6_21.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 当与迎面而来的车辆距离太近时",
+            "B": " 当要超越其他车辆时",
+            "C": " 慢速行驶时"
+        },
+        "name": "题库 6 Question 22",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 调低车头大灯",
+            "B": " 调高车头大灯",
+            "C": " 关掉车头大灯"
+        },
+        "name": "题库 6 Question 23",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 减慢车速后才继续行驶",
+            "B": " 在白线前停车然后才继续行驶",
+            "C": " 继续往前行驶"
+        },
+        "name": "题库 6 Question 24",
+        "imgName": "题库 6_24.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 右转车辆准备停车",
+            "B": " 车辆可以继续右转",
+            "C": " 交通灯失灵"
+        },
+        "name": "题库 6 Question 25",
+        "imgName": "题库 6_25.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 3",
+            "B": " 6",
+            "C": " 9"
+        },
+        "name": "题库 6 Question 26",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 危险讯号灯",
+            "B": " 车头大灯",
+            "C": " 讯号灯"
+        },
+        "name": "题库 6 Question 27",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 不要开亮车头灯以免干扰其他司机",
+            "B": " 开亮车头大灯来引起其他司机的注意",
+            "C": " 把车头大灯关掉来节省汽油"
+        },
+        "name": "题库 6 Question 28",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 司机可能醉酒驾车",
+            "B": " 可能是马路滑湿",
+            "C": " 可能是交通阻塞"
+        },
+        "name": "题库 6 Question 29",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 20米",
+            "B": " 40米",
+            "C": " 60米"
+        },
+        "name": "题库 6 Question 30",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 调换后退排挡",
+            "B": " 调换低排挡",
+            "C": " 调换空排挡"
+        },
+        "name": "题库 6 Question 31",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 车辆左右摇摆",
+            "B": " 浪费汽油",
+            "C": " 损坏轮胎"
+        },
+        "name": "题库 6 Question 32",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 反复踩踏刹车器来出去水分",
+            "B": " 拉上手拉制动器",
+            "C": " 用布来抹干刹车磨檫器的多余水分"
+        },
+        "name": "题库 6 Question 33",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 任何时候都不可以从左边超车",
+            "B": " 当交通阻塞或缓慢行驶时，你可以利用左边车道超车",
+            "C": " 只要马路状况良好，你就可以从左边超车"
+        },
+        "name": "题库 6 Question 34",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 任何时间",
+            "B": " 只有在造成交通阻塞时",
+            "C": " 当司机处在危险状况下"
+        },
+        "name": "题库 6 Question 35",
+        "imgName": "题库 6_35.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 车身净量不超过2500公斤",
+            "B": " 车身净量不超过3500公斤",
+            "C": " 车身净量不超过1500公斤"
+        },
+        "name": "题库 6 Question 36",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 超车",
+            "B": " 开快车",
+            "C": " 让快速行驶的车辆行驶的"
+        },
+        "name": "题库 6 Question 37",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 你要转左",
+            "B": " 交通拥挤",
+            "C": " 较少交通意外"
+        },
+        "name": "题库 6 Question 38",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 只有公交巴士可以前进",
+            "B": " 停车",
+            "C": " 不准进入"
+        },
+        "name": "题库 6 Question 39",
+        "imgName": "题库 6_39.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 必须",
+            "B": " 不需要",
+            "C": " 不可以"
+        },
+        "name": "题库 6 Question 40",
+        "imgName": "",
+        "answer": "A"
+    }
+]

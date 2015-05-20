@@ -1,0 +1,402 @@
+[
+    {
+        "question": {
+            "A": " 交通灯失灵",
+            "B": " 交通灯将要转变成红色，司机要马上停车",
+            "C": " 交通灯将要转变成绿色，司机准备开车"
+        },
+        "name": "题库 4 Question 1",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 看镜子及盲点，然后出示讯号灯",
+            "B": " 出示讯号灯，等到前方没有车辆才开动",
+            "C": " 出示讯号灯，等到后方没有车辆才开动"
+        },
+        "name": "题库 4 Question 2",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 需要更长的安全停车距离",
+            "B": " 需要较短的安全停车距离",
+            "C": " 没有分别"
+        },
+        "name": "题库 4 Question 3",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 70km/h",
+            "B": " 50km/h",
+            "C": " 任何速度"
+        },
+        "name": "题库 4 Question 4",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 不要超越他们",
+            "B": " 可以同时超越他们",
+            "C": " 按响车笛超越他们"
+        },
+        "name": "题库 4 Question 5",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 车辆C 可以停留在黄格内",
+            "B": " 车辆C 可以停留在黄格前",
+            "C": " 车辆C 可以慢速行驶"
+        },
+        "name": "题库 4 Question 6",
+        "imgName": "题库 4_6.jpg",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 不能在马路上行驶",
+            "B": " 只能在白天行驶",
+            "C": " 只能在车辆稀少时行驶"
+        },
+        "name": "题库 4 Question 7",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 退回原来的车道行驶",
+            "B": " 加快车速赶上他们",
+            "C": " 鸣响车笛"
+        },
+        "name": "题库 4 Question 8",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 可以，因为我有两个星期的时间来更换",
+            "B": " 不可以，因为那是犯法 的",
+            "C": " 两者都不是"
+        },
+        "name": "题库 4 Question 9",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 请人帮忙",
+            "B": " 沿着路边倒退",
+            "C": " 停车"
+        },
+        "name": "题库 4 Question 10",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 自行驶入，不须考虑你旁边的车辆",
+            "B": " 留心旁边的车辆",
+            "C": " 快速行驶"
+        },
+        "name": "题库 4 Question 11",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 直接驶过去",
+            "B": " 马上停车",
+            "C": " 倒退至停止线"
+        },
+        "name": "题库 4 Question 12",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 靠左，遵照公路的速度",
+            "B": " 保持现有的速度",
+            "C": " 加快行驶避免交通阻塞"
+        },
+        "name": "题库 4 Question 13",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 靠左",
+            "B": " 靠右",
+            "C": " 占据中间车道"
+        },
+        "name": "题库 4 Question 14",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 不可驶过中间白线",
+            "B": " 靠右行驶使视线清晰",
+            "C": " 驶过中间白线以便看的更清楚"
+        },
+        "name": "题库 4 Question 15",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 右转车辆现在可以转右",
+            "B": " 所有车辆必须停止",
+            "C": " 直行车辆可以先行驶"
+        },
+        "name": "题库 4 Question 16",
+        "imgName": "题库 4_16.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " C",
+            "B": " B",
+            "C": " A"
+        },
+        "name": "题库 4 Question 17",
+        "imgName": "题库 4_17.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 车辆B 先行驶",
+            "B": " 车辆A 先行驶",
+            "C": " 车辆C 先行驶"
+        },
+        "name": "题库 4 Question 18",
+        "imgName": "题库 4_18.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 交通路口前停车",
+            "B": " 在斜坡上停车",
+            "C": " 只有停泊车辆"
+        },
+        "name": "题库 4 Question 19",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 直行车辆可以行使",
+            "B": " 转弯车辆可以行使",
+            "C": " 所有车辆必须停止"
+        },
+        "name": "题库 4 Question 20",
+        "imgName": "题库 4_20.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 在警察前面转右",
+            "B": " 在警察后面转右",
+            "C": " 在路口中间转右"
+        },
+        "name": "题库 4 Question 21",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 慢车让路给你右边的车辆",
+            "B": " 加快速度驶入交通圈内",
+            "C": " 先停车然后驶入交通圈"
+        },
+        "name": "题库 4 Question 22",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 每1至2秒",
+            "B": " 每5至10秒",
+            "C": " 每10至20秒"
+        },
+        "name": "题库 4 Question 23",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 开高的大灯",
+            "B": " 开低的大灯",
+            "C": " 开车头的小灯"
+        },
+        "name": "题库 4 Question 24",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 任何车速",
+            "B": " 告诉公路上",
+            "C": " 一般公路的交通"
+        },
+        "name": "题库 4 Question 25",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 容易造成车祸",
+            "B": " 不会影响其他公路使用者",
+            "C": " 会省时间"
+        },
+        "name": "题库 4 Question 26",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 转过头看到肩膀的位置",
+            "B": " 观看测镜的位置",
+            "C": " 转过头观看后面"
+        },
+        "name": "题库 4 Question 27",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 安全跟车距离",
+            "B": " 刹车距离",
+            "C": " 安全超车距离"
+        },
+        "name": "题库 4 Question 28",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 不会受影响",
+            "B": " 会受影响",
+            "C": " 容易爆胎"
+        },
+        "name": "题库 4 Question 29",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 在越过白线后继续行驶",
+            "B": " 在接近白线时继续行驶",
+            "C": " 马上加速转弯"
+        },
+        "name": "题库 4 Question 30",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 减慢车速",
+            "B": " 换去较快的车道",
+            "C": " 在路肩上行驶"
+        },
+        "name": "题库 4 Question 31",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 当交通拥挤",
+            "B": " 当前面的车辆正要转右",
+            "C": " 司机的喜欢"
+        },
+        "name": "题库 4 Question 32",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 慢慢在行人旁边驶过",
+            "B": " 停车并让路给行人",
+            "C": " 与平常一样驶过"
+        },
+        "name": "题库 4 Question 33",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 当不会造成交通意外",
+            "B": " 当驾驶快过其他车辆",
+            "C": " 当你要转弯或要超越其他车辆"
+        },
+        "name": "题库 4 Question 34",
+        "imgName": "题库 4_34.jpg",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 任何时候车子会摇摆不定",
+            "B": " 载太多搭客时会摇摆不定",
+            "C": " 下雨天车子会摇摆不定"
+        },
+        "name": "题库 4 Question 35",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 靠左边慢慢行驶",
+            "B": " 开车头大灯",
+            "C": " 马上慢车"
+        },
+        "name": "题库 4 Question 36",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 下雨天",
+            "B": " 沙粒路面",
+            "C": " a和b"
+        },
+        "name": "题库 4 Question 37",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 加速行驶以免阻塞",
+            "B": " 马上停止",
+            "C": " 慢车靠近路边行驶"
+        },
+        "name": "题库 4 Question 38",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 80毫克的酒精",
+            "B": " 100毫克的酒精",
+            "C": " 150毫克的酒精"
+        },
+        "name": "题库 4 Question 39",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 开亮车头大灯",
+            "B": " 开亮车头小灯",
+            "C": " 开亮车头小灯"
+        },
+        "name": "题库 4 Question 40",
+        "imgName": "",
+        "answer": "A"
+    }
+]

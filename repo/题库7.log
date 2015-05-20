@@ -1,0 +1,402 @@
+[
+    {
+        "question": {
+            "A": " 3米",
+            "B": " 6米",
+            "C": " 7米"
+        },
+        "name": "题库 7 Question 1",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 路面滑溜",
+            "B": " 前面的车辆正向右转",
+            "C": " 交通阻塞"
+        },
+        "name": "题库 7 Question 2",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 慢速不要超越它",
+            "B": " 保持车速",
+            "C": " 加快车速，快速超远它"
+        },
+        "name": "题库 7 Question 3",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 现在车外观察安全状况",
+            "B": " 观察所有的镜子",
+            "C": " 在大路上的车辆有优先行驶"
+        },
+        "name": "题库 7 Question 4",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 下雨时",
+            "B": " 交通拥挤时",
+            "C": " 车辆稀少没有迎面而来的车辆"
+        },
+        "name": "题库 7 Question 5",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 按响车笛",
+            "B": " 向前移动",
+            "C": " 礼让驾驶"
+        },
+        "name": "题库 7 Question 6",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 轮胎的花纹全磨损",
+            "B": " 轮胎的花纹染度少过1.6mm",
+            "C": " 轮胎爆胎"
+        },
+        "name": "题库 7 Question 7",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 等候水消退",
+            "B": "  慢慢行驶",
+            "C": " 选择其他的道路"
+        },
+        "name": "题库 7 Question 8",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 减慢速度",
+            "B": " 保持速度",
+            "C": " 增加速度"
+        },
+        "name": "题库 7 Question 9",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 你完全不能驾驶那辆车",
+            "B": " 晚上不能驾驶那辆车",
+            "C": " 要用手拉制动器"
+        },
+        "name": "题库 7 Question 10",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 应该放慢速度",
+            "B": " 保持均衡速度",
+            "C": " 应该加速"
+        },
+        "name": "题库 7 Question 11",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 1.3米",
+            "B": " 1.6米",
+            "C": " 1.5米或一下"
+        },
+        "name": "题库 7 Question 12",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 所有的车辆速度",
+            "B": " 慢速的车辆",
+            "C": " 快速的车辆"
+        },
+        "name": "题库 7 Question 13",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 顺时钟方向行驶",
+            "B": " 反时钟方向行驶",
+            "C": " 倒退行驶"
+        },
+        "name": "题库 7 Question 14",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 在两旁侧镜的范围",
+            "B": " 在望后镜的范围",
+            "C": " a与b"
+        },
+        "name": "题库 7 Question 15",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 礼让驾驶",
+            "B": " 按响车笛",
+            "C": " 遵守驾驶法则"
+        },
+        "name": "题库 7 Question 16",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 走左边",
+            "B": " 从右边",
+            "C": " 任何方向"
+        },
+        "name": "题库 7 Question 17",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 转头看到的肩膀的地方",
+            "B": " 检查你的侧镜",
+            "C": " 转向身体观看左与右边"
+        },
+        "name": "题库 7 Question 18",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 慢慢行驶",
+            "B": " 保持车速",
+            "C": " 加速行驶"
+        },
+        "name": "题库 7 Question 19",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 在车辆间挤来挤去",
+            "B": " 挤入快速的车道",
+            "C": " 耐心等待驾驶前进"
+        },
+        "name": "题库 7 Question 20",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 随时摇摆不定",
+            "B": " 快速时摇摆不定",
+            "C": " 路面凹凸时摇摆不定"
+        },
+        "name": "题库 7 Question 21",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 手机",
+            "B": " 读手机简讯",
+            "C": " a和b"
+        },
+        "name": "题库 7 Question 22",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 会减弱车外的视线",
+            "B": " 消耗电池",
+            "C": " 会让其他公路使用者产生混乱"
+        },
+        "name": "题库 7 Question 23",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 拖车车头",
+            "B": " 流动吊秤车",
+            "C": " 运输车"
+        },
+        "name": "题库 7 Question 24",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 3秒",
+            "B": " 15秒",
+            "C": " 5-10秒"
+        },
+        "name": "题库 7 Question 25",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 减慢速度",
+            "B": " 增加速度",
+            "C": " 保持速度"
+        },
+        "name": "题库 7 Question 26",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 将引擎开着",
+            "B": " 确保引擎以经冷却",
+            "C": " 开亮车头灯"
+        },
+        "name": "题库 7 Question 27",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 慢速行驶光柱小心行人越过马路",
+            "B": " 加速行驶",
+            "C": " 马上停车"
+        },
+        "name": "题库 7 Question 28",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 前面",
+            "B": " 后面",
+            "C": " 旁边"
+        },
+        "name": "题库 7 Question 29",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 行人在路边行走",
+            "B": " 小孩在路边玩耍",
+            "C": " 小孩站在路旁"
+        },
+        "name": "题库 7 Question 30",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 可以用手机",
+            "B": " 不可以用手机",
+            "C": " 不可以用耳机"
+        },
+        "name": "题库 7 Question 31",
+        "imgName": "",
+        "answer": "B"
+    },
+    {
+        "question": {
+            "A": " 脚踏车可能会切入你的车道",
+            "B": " 马路太狭小",
+            "C": " 交通拥挤"
+        },
+        "name": "题库 7 Question 32",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 因为符合了90km/h速度限制标准",
+            "B": " 没有任何车辆可以超越我",
+            "C": " 除非要超车"
+        },
+        "name": "题库 7 Question 33",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 调换排挡",
+            "B": " 接手机电话",
+            "C": " 更换车道"
+        },
+        "name": "题库 7 Question 34",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 8岁以下",
+            "B": " 5岁以下",
+            "C": " 3岁以下"
+        },
+        "name": "题库 7 Question 35",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " P",
+            "B": " R",
+            "C": " D"
+        },
+        "name": "题库 7 Question 36",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 不可右转",
+            "B": " 往任何方向行驶的车辆都需要停车",
+            "C": " 可以转右"
+        },
+        "name": "题库 7 Question 37",
+        "imgName": "题库 7_37.jpg",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 增加速度",
+            "B": " 按响车笛",
+            "C": " 减慢车速"
+        },
+        "name": "题库 7 Question 38",
+        "imgName": "",
+        "answer": "C"
+    },
+    {
+        "question": {
+            "A": " 罚款",
+            "B": " 控上法庭",
+            "C": " 吊销驾照"
+        },
+        "name": "题库 7 Question 39",
+        "imgName": "",
+        "answer": "A"
+    },
+    {
+        "question": {
+            "A": " 靠左",
+            "B": " 靠右",
+            "C": " 倒退"
+        },
+        "name": "题库 7 Question 40",
+        "imgName": "",
+        "answer": "A"
+    }
+]
