@@ -23,7 +23,6 @@ $('#choices').waitUntilExists(function() {
 
   if (drmcq.setName.length === 0) {
     drmcq.setName = $('.col-md-12:eq(1) h2').html();
-    console.log(drmcq.setName);
   }
   item.name = drmcq.setName + ' Question ' + drmcq.cursor;
   var img = $('#mcqContent .img-responsive:eq(0)');
