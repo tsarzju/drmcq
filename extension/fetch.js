@@ -26,11 +26,8 @@ var fetchFunc = function() {
   }
   item.name = drmcq.setName + ' Question ' + drmcq.cursor;
   var img = $('#mcqContent .img-responsive:eq(0)');
-  if (img.length) {
-    item.imgName = drmcq.download(img.prop('src'), drmcq.setName);
-  } else {
-    item.imgName = '';
-  }
+  item.imgName = img.length ? drmcq.download(img.prop('src'), drmcq.setName) : '';
+  item.questionStr = $('#mcqContent p:eq(0)').html();
 
   var i = 0;
   for (i=0; i<$('#choices .btn').length; ++i) {
@@ -44,7 +41,7 @@ var fetchFunc = function() {
     var nextQuestion = $('.order:eq('+ (drmcq.cursor-1) +')');
     if (nextQuestion.length) {
       nextQuestion.get(0).click();
-      setTimeout(fetchFunc, 3000);
+      setTimeout(fetchFunc, 2000);
     } else {
       if (!drmcq.printed) {
         console.log(JSON.stringify(drmcq.result, null, 4));
