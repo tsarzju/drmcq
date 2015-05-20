@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Dr.MCQ",
+  "version": "1.0",
+  "description": "Dr.MCQ",
+  "browser_action": {
+    "default_icon": "favicon.png",
+    "default_title": "Click Me",
+    "name": "Click me"
+  },
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background":{
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.drmcq.com/MCQ/Booklet/*"],
+      "js": [
+        "jquery.js",
+        "jquery.waituntilexists.js"
+      ]
+    }
+  ]
+}
