@@ -1,12 +1,12 @@
 var drmcq = {};
 
-drmcq.download = function(path, prefix, item) {
+drmcq.download = function(path, prefix) {
   var name = path.replace(/^.*[\\\/]/, '');
   var a = document.createElement('a');
   a.href = path;
   a.download = prefix + '_' + name;
-  item.imgName = a.download;
   a.click();
+  return a.download;
 };
 
 drmcq.cursor = 1;
@@ -26,7 +26,12 @@ $('#choices').waitUntilExists(function() {
   }
   item.name = drmcq.setName + ' Question ' + drmcq.cursor;
   var img = $('#mcqContent .img-responsive:eq(0)');
-  drmcq.download(img.prop('src'), drmcq.setName, item);
+  if (img.length) {
+    item.imgName = drmcq.download(img.prop('src'), drmcq.setName);
+  } else {
+    item.imgName = '';
+  }
+
   var i = 0;
   for (i=0; i<$('#choices .btn').length; ++i) {
     item.question[$('#choices .btn:eq('+i+')').html()] = $('#choices .btn:eq('+i+')').parent().contents()[1].nodeValue;
