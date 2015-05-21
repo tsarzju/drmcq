@@ -35,6 +35,11 @@ function load(cursor) {
   $('#questionName').html(question.name);
   $('#questionStr').html(question.questionStr);
   $('#questionImg').prop('src', 'img/' + question.imgName);
+  if (question.imgName.length>0) {
+    $('#questionImg').show();
+  } else {
+    $('#questionImg').hide();
+  }
   $('#choices').html('');
   $.each(question.question, function(key, value) {
     var link = $('<a href="#"></a>');

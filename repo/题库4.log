@@ -7,6 +7,7 @@
         },
         "name": "题库 4 Question 1",
         "imgName": "",
+        "questionStr": "1. 当交通橙色灯在闪时，表示：",
         "answer": "A"
     },
     {
@@ -17,6 +18,7 @@
         },
         "name": "题库 4 Question 2",
         "imgName": "",
+        "questionStr": "2. 在开车之前，你应该",
         "answer": "A"
     },
     {
@@ -27,6 +29,7 @@
         },
         "name": "题库 4 Question 3",
         "imgName": "",
+        "questionStr": "3. 载满乘客的车辆在雨中行驶",
         "answer": "A"
     },
     {
@@ -37,6 +40,7 @@
         },
         "name": "题库 4 Question 4",
         "imgName": "",
+        "questionStr": "4. 公路上的时速70km/h, 你应该驾驶",
         "answer": "A"
     },
     {
@@ -47,6 +51,7 @@
         },
         "name": "题库 4 Question 5",
         "imgName": "",
+        "questionStr": "5. 若前方的司机要超越其他的车辆，你应该",
         "answer": "A"
     },
     {
@@ -57,6 +62,7 @@
         },
         "name": "题库 4 Question 6",
         "imgName": "题库 4_6.jpg",
+        "questionStr": "6. 图",
         "answer": "B"
     },
     {
@@ -67,6 +73,7 @@
         },
         "name": "题库 4 Question 7",
         "imgName": "",
+        "questionStr": "7. 若刹车器灯损坏了，车子",
         "answer": "A"
     },
     {
@@ -77,6 +84,7 @@
         },
         "name": "题库 4 Question 8",
         "imgName": "",
+        "questionStr": "8. 当超越车辆时，前方的车子突然加快，你应该",
         "answer": "A"
     },
     {
@@ -87,6 +95,7 @@
         },
         "name": "题库 4 Question 9",
         "imgName": "",
+        "questionStr": "9. 如果你的临时”驾驶执照“只过期1天，你是否可以驾驶车辆",
         "answer": "B"
     },
     {
@@ -97,6 +106,7 @@
         },
         "name": "题库 4 Question 10",
         "imgName": "",
+        "questionStr": "10. 退车时，若视线受阻",
         "answer": "A"
     },
     {
@@ -107,6 +117,7 @@
         },
         "name": "题库 4 Question 11",
         "imgName": "",
+        "questionStr": "11. 驶近汇合交通处时而又有优先行使权，你应",
         "answer": "B"
     },
     {
@@ -117,6 +128,7 @@
         },
         "name": "题库 4 Question 12",
         "imgName": "",
+        "questionStr": "12. 当你驶入十字路口的白线，交通灯转变成橙色时，你应该",
         "answer": "A"
     },
     {
@@ -127,6 +139,7 @@
         },
         "name": "题库 4 Question 13",
         "imgName": "",
+        "questionStr": "13. 当你驶离快速公路时，你应该",
         "answer": "A"
     },
     {
@@ -137,6 +150,7 @@
         },
         "name": "题库 4 Question 14",
         "imgName": "",
+        "questionStr": "14. 车子慢速行驶时，应该",
         "answer": "A"
     },
     {
@@ -147,6 +161,7 @@
         },
         "name": "题库 4 Question 15",
         "imgName": "",
+        "questionStr": "15. 行驶靠近转弯处时，你",
         "answer": "A"
     },
     {
@@ -157,6 +172,7 @@
         },
         "name": "题库 4 Question 16",
         "imgName": "题库 4_16.jpg",
+        "questionStr": "16. 图，如图显示",
         "answer": "A"
     },
     {
@@ -167,6 +183,7 @@
         },
         "name": "题库 4 Question 17",
         "imgName": "题库 4_17.jpg",
+        "questionStr": "17. 图，如图显示哪一个是离合器",
         "answer": "C"
     },
     {
@@ -177,6 +194,7 @@
         },
         "name": "题库 4 Question 18",
         "imgName": "题库 4_18.jpg",
+        "questionStr": "18. 图，如图显示",
         "answer": "A"
     },
     {
@@ -187,6 +205,7 @@
         },
         "name": "题库 4 Question 19",
         "imgName": "",
+        "questionStr": "19. 手拉制动器应用在",
         "answer": "A"
     },
     {
@@ -197,6 +216,7 @@
         },
         "name": "题库 4 Question 20",
         "imgName": "题库 4_20.jpg",
+        "questionStr": "20. 图，如图显示",
         "answer": "A"
     },
     {
@@ -207,6 +227,7 @@
         },
         "name": "题库 4 Question 21",
         "imgName": "",
+        "questionStr": "21. 警察在交通路口指示你转右，你应该",
         "answer": "A"
     },
     {
@@ -217,6 +238,7 @@
         },
         "name": "题库 4 Question 22",
         "imgName": "",
+        "questionStr": "22. 当你驶近交通圈时，",
         "answer": "A"
     },
     {
@@ -227,6 +249,7 @@
         },
         "name": "题库 4 Question 23",
         "imgName": "",
+        "questionStr": "23. 驾驶时，你应该多久才观察望后镜一次？",
         "answer": "B"
     },
     {
@@ -237,6 +260,7 @@
         },
         "name": "题库 4 Question 24",
         "imgName": "",
+        "questionStr": "24. 晚上驾驶，跟着前方的车辆时，应该",
         "answer": "B"
     },
     {
@@ -247,6 +271,7 @@
         },
         "name": "题库 4 Question 25",
         "imgName": "",
+        "questionStr": "25. 两秒钟的规则应用在",
         "answer": "A"
     },
     {
@@ -257,6 +282,7 @@
         },
         "name": "题库 4 Question 26",
         "imgName": "",
+        "questionStr": "26. 跟随前方的车子太近",
         "answer": "A"
     },
     {
@@ -267,6 +293,7 @@
         },
         "name": "题库 4 Question 27",
         "imgName": "",
+        "questionStr": "27. 观看盲点时应",
         "answer": "A"
     },
     {
@@ -277,6 +304,7 @@
         },
         "name": "题库 4 Question 28",
         "imgName": "",
+        "questionStr": "28. 两秒钟规则是确保",
         "answer": "A"
     },
     {
@@ -287,6 +315,7 @@
         },
         "name": "题库 4 Question 29",
         "imgName": "",
+        "questionStr": "29. 下雨天，新轮胎的刹车效果",
         "answer": "B"
     },
     {
@@ -297,6 +326,7 @@
         },
         "name": "题库 4 Question 30",
         "imgName": "",
+        "questionStr": "30. 转弯时，绿色箭头在闪烁",
         "answer": "A"
     },
     {
@@ -307,6 +337,7 @@
         },
         "name": "题库 4 Question 31",
         "imgName": "",
+        "questionStr": "31. 若交通阻塞或拥挤，你应该",
         "answer": "A"
     },
     {
@@ -317,6 +348,7 @@
         },
         "name": "题库 4 Question 32",
         "imgName": "",
+        "questionStr": "32. 司机允许从左边超越其他车辆",
         "answer": "B"
     },
     {
@@ -327,6 +359,7 @@
         },
         "name": "题库 4 Question 33",
         "imgName": "",
+        "questionStr": "33. 在行人过道上，司机应该",
         "answer": "B"
     },
     {
@@ -337,6 +370,7 @@
         },
         "name": "题库 4 Question 34",
         "imgName": "题库 4_34.jpg",
+        "questionStr": "34. 图，根据图所示，车辆A需要在何时可用右边车道？",
         "answer": "C"
     },
     {
@@ -347,6 +381,7 @@
         },
         "name": "题库 4 Question 35",
         "imgName": "",
+        "questionStr": "35. 驾驶盘太松会造成",
         "answer": "A"
     },
     {
@@ -357,6 +392,7 @@
         },
         "name": "题库 4 Question 36",
         "imgName": "",
+        "questionStr": "36. 当司机的视线被迎面车子的大灯刺眼，司机应当",
         "answer": "A"
     },
     {
@@ -367,6 +403,7 @@
         },
         "name": "题库 4 Question 37",
         "imgName": "",
+        "questionStr": "37. 在什么情况下刹车距离必须延长？",
         "answer": "A"
     },
     {
@@ -377,6 +414,7 @@
         },
         "name": "题库 4 Question 38",
         "imgName": "",
+        "questionStr": "38. 听到救伤车的警报声，司机应该",
         "answer": "C"
     },
     {
@@ -387,6 +425,7 @@
         },
         "name": "题库 4 Question 39",
         "imgName": "",
+        "questionStr": "39. 司机的每100毫升的血液中的酒精含量不可以超过",
         "answer": "A"
     },
     {
@@ -397,6 +436,7 @@
         },
         "name": "题库 4 Question 40",
         "imgName": "",
+        "questionStr": "40. 在雨天驾驶时，你应该",
         "answer": "A"
     }
 ]

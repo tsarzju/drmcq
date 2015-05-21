@@ -7,6 +7,7 @@
         },
         "name": "题库 5 Question 1",
         "imgName": "",
+        "questionStr": "1. 锯齿形黄线表示",
         "answer": "A"
     },
     {
@@ -17,6 +18,7 @@
         },
         "name": "题库 5 Question 2",
         "imgName": "题库 5_2.jpg",
+        "questionStr": "2. 图",
         "answer": "A"
     },
     {
@@ -27,6 +29,7 @@
         },
         "name": "题库 5 Question 3",
         "imgName": "题库 5_3.jpg",
+        "questionStr": "3. 图",
         "answer": "B"
     },
     {
@@ -37,6 +40,7 @@
         },
         "name": "题库 5 Question 4",
         "imgName": "题库 5_4.jpg",
+        "questionStr": "4. 图",
         "answer": "C"
     },
     {
@@ -47,6 +51,7 @@
         },
         "name": "题库 5 Question 5",
         "imgName": "题库 5_5.jpg",
+        "questionStr": "5. 图",
         "answer": "C"
     },
     {
@@ -57,6 +62,7 @@
         },
         "name": "题库 5 Question 6",
         "imgName": "题库 5_6.jpg",
+        "questionStr": "6. 图",
         "answer": "B"
     },
     {
@@ -67,6 +73,7 @@
         },
         "name": "题库 5 Question 7",
         "imgName": "题库 5_7.jpg",
+        "questionStr": "7. 图",
         "answer": "B"
     },
     {
@@ -77,6 +84,7 @@
         },
         "name": "题库 5 Question 8",
         "imgName": "题库 5_8.jpg",
+        "questionStr": "8. 图",
         "answer": "A"
     },
     {
@@ -87,6 +95,7 @@
         },
         "name": "题库 5 Question 9",
         "imgName": "题库 5_9.jpg",
+        "questionStr": "9. 图",
         "answer": "A"
     },
     {
@@ -97,6 +106,7 @@
         },
         "name": "题库 5 Question 10",
         "imgName": "题库 5_10.jpg",
+        "questionStr": "10. 图",
         "answer": "C"
     },
     {
@@ -107,6 +117,7 @@
         },
         "name": "题库 5 Question 11",
         "imgName": "题库 5_11.jpg",
+        "questionStr": "11. 图",
         "answer": "C"
     },
     {
@@ -117,6 +128,7 @@
         },
         "name": "题库 5 Question 12",
         "imgName": "题库 5_12.jpg",
+        "questionStr": "12. 图",
         "answer": "B"
     },
     {
@@ -127,6 +139,7 @@
         },
         "name": "题库 5 Question 13",
         "imgName": "题库 5_13.jpg",
+        "questionStr": "13. 图",
         "answer": "B"
     },
     {
@@ -137,6 +150,7 @@
         },
         "name": "题库 5 Question 14",
         "imgName": "题库 5_14.jpg",
+        "questionStr": "14. 图",
         "answer": "A"
     },
     {
@@ -147,6 +161,7 @@
         },
         "name": "题库 5 Question 15",
         "imgName": "题库 5_15.jpg",
+        "questionStr": "15. 图",
         "answer": "B"
     },
     {
@@ -157,6 +172,7 @@
         },
         "name": "题库 5 Question 16",
         "imgName": "题库 5_16.jpg",
+        "questionStr": "16. 图",
         "answer": "C"
     },
     {
@@ -167,6 +183,7 @@
         },
         "name": "题库 5 Question 17",
         "imgName": "题库 5_17.jpg",
+        "questionStr": "17. 图",
         "answer": "B"
     },
     {
@@ -177,6 +194,7 @@
         },
         "name": "题库 5 Question 18",
         "imgName": "题库 5_18.jpg",
+        "questionStr": "18. 图，平行间断双白线是",
         "answer": "A"
     },
     {
@@ -187,6 +205,7 @@
         },
         "name": "题库 5 Question 19",
         "imgName": "",
+        "questionStr": "19. 平行双白线在十字路口的作用是",
         "answer": "B"
     },
     {
@@ -197,6 +216,7 @@
         },
         "name": "题库 5 Question 20",
         "imgName": "",
+        "questionStr": "20. 在路旁的连续单黄线的作用是",
         "answer": "C"
     },
     {
@@ -207,6 +227,7 @@
         },
         "name": "题库 5 Question 21",
         "imgName": "",
+        "questionStr": "21. 锯齿形单黄线表示",
         "answer": "A"
     },
     {
@@ -217,6 +238,7 @@
         },
         "name": "题库 5 Question 22",
         "imgName": "",
+        "questionStr": "22. 锯齿形双黄线表示",
         "answer": "B"
     },
     {
@@ -227,6 +249,7 @@
         },
         "name": "题库 5 Question 23",
         "imgName": "题库 5_23.jpg",
+        "questionStr": "23. 图，路面斜形条纹的作用是",
         "answer": "A"
     },
     {
@@ -237,6 +260,7 @@
         },
         "name": "题库 5 Question 24",
         "imgName": "题库 5_24.jpg",
+        "questionStr": "24. 图，路旁锯齿形的白线的作用是",
         "answer": "B"
     },
     {
@@ -247,6 +271,7 @@
         },
         "name": "题库 5 Question 25",
         "imgName": "题库 5_25.jpg",
+        "questionStr": "25. 图",
         "answer": "A"
     },
     {
@@ -257,6 +282,7 @@
         },
         "name": "题库 5 Question 26",
         "imgName": "题库 5_26.jpg",
+        "questionStr": "26. 图",
         "answer": "C"
     },
     {
@@ -267,6 +293,7 @@
         },
         "name": "题库 5 Question 27",
         "imgName": "题库 5_27.jpg",
+        "questionStr": "27. 图",
         "answer": "B"
     },
     {
@@ -277,6 +304,7 @@
         },
         "name": "题库 5 Question 28",
         "imgName": "",
+        "questionStr": "28. 在什么时候可以从左边超车？",
         "answer": "B"
     },
     {
@@ -287,6 +315,7 @@
         },
         "name": "题库 5 Question 29",
         "imgName": "",
+        "questionStr": "29. 车辆不准停泊在交叉路口_____米之内",
         "answer": "B"
     },
     {
@@ -297,6 +326,7 @@
         },
         "name": "题库 5 Question 30",
         "imgName": "",
+        "questionStr": "30. 靠近交通灯时，你应该",
         "answer": "C"
     },
     {
@@ -307,6 +337,7 @@
         },
         "name": "题库 5 Question 31",
         "imgName": "",
+        "questionStr": "31. 在新加坡汽车乘客高度少过_____米必须绑上安全带",
         "answer": "B"
     },
     {
@@ -317,6 +348,7 @@
         },
         "name": "题库 5 Question 32",
         "imgName": "",
+        "questionStr": "32. 在新加坡司机需亮起车头灯从",
         "answer": "A"
     },
     {
@@ -327,6 +359,7 @@
         },
         "name": "题库 5 Question 33",
         "imgName": "",
+        "questionStr": "33. 孩童在___岁以下需要安置儿童坐垫",
         "answer": "B"
     },
     {
@@ -337,6 +370,7 @@
         },
         "name": "题库 5 Question 34",
         "imgName": "",
+        "questionStr": "34. 在倾盆大雨时亮起车头灯是",
         "answer": "A"
     },
     {
@@ -347,6 +381,7 @@
         },
         "name": "题库 5 Question 35",
         "imgName": "",
+        "questionStr": "35. “两秒钟”的准则是用在",
         "answer": "B"
     },
     {
@@ -357,6 +392,7 @@
         },
         "name": "题库 5 Question 36",
         "imgName": "题库 5_36.jpg",
+        "questionStr": "36. 图，哪一辆车有优先行使权",
         "answer": "B"
     },
     {
@@ -367,6 +403,7 @@
         },
         "name": "题库 5 Question 37",
         "imgName": "",
+        "questionStr": "37. 当你行驶在其他车辆后面时应调低车头灯是因为",
         "answer": "A"
     },
     {
@@ -377,6 +414,7 @@
         },
         "name": "题库 5 Question 38",
         "imgName": "",
+        "questionStr": "38. 你可以驾驶车子",
         "answer": "C"
     },
     {
@@ -387,6 +425,7 @@
         },
         "name": "题库 5 Question 39",
         "imgName": "",
+        "questionStr": "39. 在快速公路上当你的手机响了而没有耳机设备，你应该",
         "answer": "C"
     },
     {
@@ -397,6 +436,7 @@
         },
         "name": "题库 5 Question 40",
         "imgName": "",
+        "questionStr": "40. 当你的驾驶执照过期一天时",
         "answer": "A"
     }
 ]

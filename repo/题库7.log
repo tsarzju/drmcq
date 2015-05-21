@@ -7,6 +7,7 @@
         },
         "name": "题库 7 Question 1",
         "imgName": "",
+        "questionStr": "1. 你不可将汽车停放在消防栓两边各为____的范围内",
         "answer": "A"
     },
     {
@@ -17,6 +18,7 @@
         },
         "name": "题库 7 Question 2",
         "imgName": "",
+        "questionStr": "2. 你可以从左边超越前面的车辆，当_____",
         "answer": "B"
     },
     {
@@ -27,6 +29,7 @@
         },
         "name": "题库 7 Question 3",
         "imgName": "",
+        "questionStr": "3. 被超越的车辆突然加速前进，你该",
         "answer": "A"
     },
     {
@@ -37,6 +40,7 @@
         },
         "name": "题库 7 Question 4",
         "imgName": "",
+        "questionStr": "4. 从大路倒退进入小路时，你应该",
         "answer": "A"
     },
     {
@@ -47,6 +51,7 @@
         },
         "name": "题库 7 Question 5",
         "imgName": "",
+        "questionStr": "5. 什么情况下开车头大灯？",
         "answer": "C"
     },
     {
@@ -57,6 +62,7 @@
         },
         "name": "题库 7 Question 6",
         "imgName": "",
+        "questionStr": "6. 当交通灯正在显现红人时，行人仍然在过道路你应该 ",
         "answer": "C"
     },
     {
@@ -67,6 +73,7 @@
         },
         "name": "题库 7 Question 7",
         "imgName": "",
+        "questionStr": "7. 当你在什么情况下决定更换轮胎？",
         "answer": "B"
     },
     {
@@ -77,6 +84,7 @@
         },
         "name": "题库 7 Question 8",
         "imgName": "",
+        "questionStr": "8. 驶近淹水的积区， 你应该",
         "answer": "C"
     },
     {
@@ -87,6 +95,7 @@
         },
         "name": "题库 7 Question 9",
         "imgName": "",
+        "questionStr": "9. 当驾驶时前方有小孩子，你必须______.",
         "answer": "A"
     },
     {
@@ -97,6 +106,7 @@
         },
         "name": "题库 7 Question 10",
         "imgName": "",
+        "questionStr": "10. 当你踩踏刹车器而刹车器的灯泡不亮",
         "answer": "A"
     },
     {
@@ -107,6 +117,7 @@
         },
         "name": "题库 7 Question 11",
         "imgName": "",
+        "questionStr": "11. 行驶过一些油渍的地方",
         "answer": "A"
     },
     {
@@ -117,6 +128,7 @@
         },
         "name": "题库 7 Question 12",
         "imgName": "",
+        "questionStr": "12. 一些搭客在多少高度时，不须要绑上安全带",
         "answer": "C"
     },
     {
@@ -127,6 +139,7 @@
         },
         "name": "题库 7 Question 13",
         "imgName": "",
+        "questionStr": "13. 两秒钟规则适用在",
         "answer": "A"
     },
     {
@@ -137,6 +150,7 @@
         },
         "name": "题库 7 Question 14",
         "imgName": "",
+        "questionStr": "14. 交通车的行驶规则",
         "answer": "A"
     },
     {
@@ -147,6 +161,7 @@
         },
         "name": "题库 7 Question 15",
         "imgName": "",
+        "questionStr": "15. 盲点是指_____所看不到的地方",
         "answer": "C"
     },
     {
@@ -157,6 +172,7 @@
         },
         "name": "题库 7 Question 16",
         "imgName": "",
+        "questionStr": "16. 行驶靠近行人时，司机应该",
         "answer": "A"
     },
     {
@@ -167,6 +183,7 @@
         },
         "name": "题库 7 Question 17",
         "imgName": "",
+        "questionStr": "17. 如果超越车辆应该",
         "answer": "B"
     },
     {
@@ -177,6 +194,7 @@
         },
         "name": "题库 7 Question 18",
         "imgName": "",
+        "questionStr": "18. 你要检查盲点",
         "answer": "A"
     },
     {
@@ -187,6 +205,7 @@
         },
         "name": "题库 7 Question 19",
         "imgName": "",
+        "questionStr": "19. 前面白色道路线条",
         "answer": "A"
     },
     {
@@ -197,6 +216,7 @@
         },
         "name": "题库 7 Question 20",
         "imgName": "",
+        "questionStr": "20. 交通拥挤时应该",
         "answer": "C"
     },
     {
@@ -207,6 +227,7 @@
         },
         "name": "题库 7 Question 21",
         "imgName": "",
+        "questionStr": "21. 松懈的方向盘会导致汽车",
         "answer": "A"
     },
     {
@@ -217,6 +238,7 @@
         },
         "name": "题库 7 Question 22",
         "imgName": "",
+        "questionStr": "22. 驾驶汽车时不准用",
         "answer": "C"
     },
     {
@@ -227,6 +249,7 @@
         },
         "name": "题库 7 Question 23",
         "imgName": "",
+        "questionStr": "23. 驾驶时，你不可以开亮车内的灯光",
         "answer": "A"
     },
     {
@@ -237,6 +260,7 @@
         },
         "name": "题库 7 Question 24",
         "imgName": "",
+        "questionStr": "24. 什么车辆是不允许在快速公路行驶",
         "answer": "B"
     },
     {
@@ -247,6 +271,7 @@
         },
         "name": "题库 7 Question 25",
         "imgName": "",
+        "questionStr": "25. 驾驶时，你必须每_____观察镜子一次。",
         "answer": "C"
     },
     {
@@ -257,6 +282,7 @@
         },
         "name": "题库 7 Question 26",
         "imgName": "",
+        "questionStr": "26. 当你被另外一辆车超越时，你应该_____.",
         "answer": "A"
     },
     {
@@ -267,6 +293,7 @@
         },
         "name": "题库 7 Question 27",
         "imgName": "",
+        "questionStr": "27. 要打开散热器的封盖检查冷却液时需要",
         "answer": "B"
     },
     {
@@ -277,6 +304,7 @@
         },
         "name": "题库 7 Question 28",
         "imgName": "",
+        "questionStr": "28. 缓慢行驶经过巴士车时，必须",
         "answer": "A"
     },
     {
@@ -287,6 +315,7 @@
         },
         "name": "题库 7 Question 29",
         "imgName": "",
+        "questionStr": "29. 当你要做'U'转时必须在‘U'转讯号牌的",
         "answer": "B"
     },
     {
@@ -297,6 +326,7 @@
         },
         "name": "题库 7 Question 30",
         "imgName": "",
+        "questionStr": "30. 以下哪一项会构成危险",
         "answer": "B"
     },
     {
@@ -307,6 +337,7 @@
         },
         "name": "题库 7 Question 31",
         "imgName": "",
+        "questionStr": "31. 在交通路口停车时，你",
         "answer": "B"
     },
     {
@@ -317,6 +348,7 @@
         },
         "name": "题库 7 Question 32",
         "imgName": "",
+        "questionStr": "32. 当你驾驶经过脚踏车要离开远一点，因为",
         "answer": "A"
     },
     {
@@ -327,6 +359,7 @@
         },
         "name": "题库 7 Question 33",
         "imgName": "",
+        "questionStr": "33. 当你在快速公路以90km/h 在最右边车道行驶",
         "answer": "C"
     },
     {
@@ -337,6 +370,7 @@
         },
         "name": "题库 7 Question 34",
         "imgName": "",
+        "questionStr": "34. 你应该双手握着驾驶盘十点十分处，除了要",
         "answer": "A"
     },
     {
@@ -347,6 +381,7 @@
         },
         "name": "题库 7 Question 35",
         "imgName": "",
+        "questionStr": "35. 儿童在_____， 车上就必须装上儿童安全带",
         "answer": "A"
     },
     {
@@ -357,6 +392,7 @@
         },
         "name": "题库 7 Question 36",
         "imgName": "",
+        "questionStr": "36. 若要开动自动排挡汽车的引擎，先将变速排挡杠调入",
         "answer": "A"
     },
     {
@@ -367,6 +403,7 @@
         },
         "name": "题库 7 Question 37",
         "imgName": "题库 7_37.jpg",
+        "questionStr": "37. 图，红色箭头交通灯亮着时",
         "answer": "A"
     },
     {
@@ -377,6 +414,7 @@
         },
         "name": "题库 7 Question 38",
         "imgName": "",
+        "questionStr": "38. 若驶经学校地区，你应该",
         "answer": "C"
     },
     {
@@ -387,6 +425,7 @@
         },
         "name": "题库 7 Question 39",
         "imgName": "",
+        "questionStr": "39. 过关卡时，如果被发现油箱的油少过3/4， 你将会被",
         "answer": "A"
     },
     {
@@ -397,6 +436,7 @@
         },
         "name": "题库 7 Question 40",
         "imgName": "",
+        "questionStr": "40. 拖车车头必须先，______才能'U' 转或右转",
         "answer": "A"
     }
 ]

@@ -7,6 +7,7 @@
         },
         "name": "题库 6 Question 1",
         "imgName": "",
+        "questionStr": "1. 相隔多久你会观察往望后镜",
         "answer": "C"
     },
     {
@@ -17,6 +18,7 @@
         },
         "name": "题库 6 Question 2",
         "imgName": "",
+        "questionStr": "2. 怎样观察盲点？",
         "answer": "A"
     },
     {
@@ -27,6 +29,7 @@
         },
         "name": "题库 6 Question 3",
         "imgName": "",
+        "questionStr": "3. 尾随前面的车辆太近会造成危险因为",
         "answer": "B"
     },
     {
@@ -37,6 +40,7 @@
         },
         "name": "题库 6 Question 4",
         "imgName": "",
+        "questionStr": "4. ”辆秒钟“规则是",
         "answer": "C"
     },
     {
@@ -47,6 +51,7 @@
         },
         "name": "题库 6 Question 5",
         "imgName": "",
+        "questionStr": "5. 什么时候司机可以从小路退到大路？",
         "answer": "C"
     },
     {
@@ -57,6 +62,7 @@
         },
         "name": "题库 6 Question 6",
         "imgName": "",
+        "questionStr": "6. 下雨天，车辆的刹车距离会",
         "answer": "A"
     },
     {
@@ -67,6 +73,7 @@
         },
         "name": "题库 6 Question 7",
         "imgName": "",
+        "questionStr": "7. 当轮胎齿轮减少，停车距离要",
         "answer": "A"
     },
     {
@@ -77,6 +84,7 @@
         },
         "name": "题库 6 Question 8",
         "imgName": "",
+        "questionStr": "8. 当司机驶过淹水地带而刹车器失灵时",
         "answer": "C"
     },
     {
@@ -87,6 +95,7 @@
         },
         "name": "题库 6 Question 9",
         "imgName": "",
+        "questionStr": "9. 绑上安全带会",
         "answer": "B"
     },
     {
@@ -97,6 +106,7 @@
         },
         "name": "题库 6 Question 10",
         "imgName": "",
+        "questionStr": "10. 临时驾驶执照逾期一天，可否继续驾驶？",
         "answer": "B"
     },
     {
@@ -107,6 +117,7 @@
         },
         "name": "题库 6 Question 11",
         "imgName": "",
+        "questionStr": "11. 驾驶车辆时，如果手机响了电话却没有装配耳机，司机应该",
         "answer": "A"
     },
     {
@@ -117,6 +128,7 @@
         },
         "name": "题库 6 Question 12",
         "imgName": "",
+        "questionStr": "12. 司机如果患上______便不能驾车？",
         "answer": "C"
     },
     {
@@ -127,6 +139,7 @@
         },
         "name": "题库 6 Question 13",
         "imgName": "",
+        "questionStr": "13. 哪一种车辆不被允许在快速公路上出现？",
         "answer": "C"
     },
     {
@@ -137,6 +150,7 @@
         },
         "name": "题库 6 Question 14",
         "imgName": "",
+        "questionStr": "14. ”两秒钟“的准则是用在：",
         "answer": "B"
     },
     {
@@ -147,6 +161,7 @@
         },
         "name": "题库 6 Question 15",
         "imgName": "",
+        "questionStr": "15. 当你要将车子停在路边时",
         "answer": "B"
     },
     {
@@ -157,6 +172,7 @@
         },
         "name": "题库 6 Question 16",
         "imgName": "",
+        "questionStr": "16. 路旁的锯齿形单黄线是表示”",
         "answer": "A"
     },
     {
@@ -167,6 +183,7 @@
         },
         "name": "题库 6 Question 17",
         "imgName": "题库 6_17.jpg",
+        "questionStr": "17. 图，此图表示：",
         "answer": "A"
     },
     {
@@ -177,6 +194,7 @@
         },
         "name": "题库 6 Question 18",
         "imgName": "题库 6_18.jpg",
+        "questionStr": "18. 图，此图表示：",
         "answer": "A"
     },
     {
@@ -187,6 +205,7 @@
         },
         "name": "题库 6 Question 19",
         "imgName": "题库 6_19.jpg",
+        "questionStr": "19. 图，此图表示：",
         "answer": "A"
     },
     {
@@ -197,6 +216,7 @@
         },
         "name": "题库 6 Question 20",
         "imgName": "",
+        "questionStr": "20. 当红色交通灯闪烁时，司机应”",
         "answer": "C"
     },
     {
@@ -207,6 +227,7 @@
         },
         "name": "题库 6 Question 21",
         "imgName": "题库 6_21.jpg",
+        "questionStr": "21. 图，此图表示：",
         "answer": "A"
     },
     {
@@ -217,6 +238,7 @@
         },
         "name": "题库 6 Question 22",
         "imgName": "",
+        "questionStr": "22. 司机应在什么时候调低车头灯？",
         "answer": "A"
     },
     {
@@ -227,6 +249,7 @@
         },
         "name": "题库 6 Question 23",
         "imgName": "",
+        "questionStr": "23. 当你在其他车辆后面行驶时，你应该",
         "answer": "A"
     },
     {
@@ -237,6 +260,7 @@
         },
         "name": "题库 6 Question 24",
         "imgName": "题库 6_24.jpg",
+        "questionStr": "24. 图，当车子驶近白线时，司机应该",
         "answer": "B"
     },
     {
@@ -247,6 +271,7 @@
         },
         "name": "题库 6 Question 25",
         "imgName": "题库 6_25.jpg",
+        "questionStr": "25. 图，此图表示：",
         "answer": "C"
     },
     {
@@ -257,6 +282,7 @@
         },
         "name": "题库 6 Question 26",
         "imgName": "",
+        "questionStr": "26. 车辆不可以在消防栓范围内_____米停泊",
         "answer": "A"
     },
     {
@@ -267,6 +293,7 @@
         },
         "name": "题库 6 Question 27",
         "imgName": "",
+        "questionStr": "27. 在倾盆大雨中行驶时，你应该启动",
         "answer": "B"
     },
     {
@@ -277,6 +304,7 @@
         },
         "name": "题库 6 Question 28",
         "imgName": "",
+        "questionStr": "28. 在大雨中行驶时，你应该",
         "answer": "B"
     },
     {
@@ -287,6 +315,7 @@
         },
         "name": "题库 6 Question 29",
         "imgName": "",
+        "questionStr": "29. 如果车辆在行驶时摇摆不定，",
         "answer": "A"
     },
     {
@@ -297,6 +326,7 @@
         },
         "name": "题库 6 Question 30",
         "imgName": "",
+        "questionStr": "30. 反光警告牌应放置离抛锚车辆后至少",
         "answer": "A"
     },
     {
@@ -307,6 +337,7 @@
         },
         "name": "题库 6 Question 31",
         "imgName": "",
+        "questionStr": "31. 车辆向下斜坡方向停泊时，司机应该",
         "answer": "A"
     },
     {
@@ -317,6 +348,7 @@
         },
         "name": "题库 6 Question 32",
         "imgName": "",
+        "questionStr": "32. 驾驶盘松脱会造成",
         "answer": "A"
     },
     {
@@ -327,6 +359,7 @@
         },
         "name": "题库 6 Question 33",
         "imgName": "",
+        "questionStr": "33. 车辆驶过积水处，刹车摩擦器应被水渗透而无法正常操作，司机应该 ",
         "answer": "A"
     },
     {
@@ -337,6 +370,7 @@
         },
         "name": "题库 6 Question 34",
         "imgName": "",
+        "questionStr": "34. 当你在左边车道行驶时，",
         "answer": "A"
     },
     {
@@ -347,6 +381,7 @@
         },
         "name": "题库 6 Question 35",
         "imgName": "题库 6_35.jpg",
+        "questionStr": "35. 锁轮标志在什么时候生效？",
         "answer": "A"
     },
     {
@@ -357,6 +392,7 @@
         },
         "name": "题库 6 Question 36",
         "imgName": "",
+        "questionStr": "36. 第三极合格司机能驾驶的车子是",
         "answer": "A"
     },
     {
@@ -367,6 +403,7 @@
         },
         "name": "题库 6 Question 37",
         "imgName": "",
+        "questionStr": "37. 右边车道是用来",
         "answer": "A"
     },
     {
@@ -377,6 +414,7 @@
         },
         "name": "题库 6 Question 38",
         "imgName": "",
+        "questionStr": "38. 驶近路口时从左边超车是因为",
         "answer": "A"
     },
     {
@@ -387,6 +425,7 @@
         },
         "name": "题库 6 Question 39",
         "imgName": "题库 6_39.jpg",
+        "questionStr": "39. 图，绿色B",
         "answer": "A"
     },
     {
@@ -397,6 +436,7 @@
         },
         "name": "题库 6 Question 40",
         "imgName": "",
+        "questionStr": "40. 晚上七点与早上七点您____开车头灯与尾灯",
         "answer": "A"
     }
 ]
