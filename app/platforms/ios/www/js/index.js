@@ -1,49 +1,63 @@
-/*
- * Licensed to the Apache Software Foundation (ASF) under one
- * or more contributor license agreements.  See the NOTICE file
- * distributed with this work for additional information
- * regarding copyright ownership.  The ASF licenses this file
- * to you under the Apache License, Version 2.0 (the
- * "License"); you may not use this file except in compliance
- * with the License.  You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing,
- * software distributed under the License is distributed on an
- * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
- * KIND, either express or implied.  See the License for the
- * specific language governing permissions and limitations
- * under the License.
- */
-var app = {
-    // Application Constructor
-    initialize: function() {
-        this.bindEvents();
-    },
-    // Bind Event Listeners
-    //
-    // Bind any events that are required on startup. Common events are:
-    // 'load', 'deviceready', 'offline', and 'online'.
-    bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
-    },
-    // deviceready Event Handler
-    //
-    // The scope of 'this' is the event. In order to call the 'receivedEvent'
-    // function, we must explicitly call 'app.receivedEvent(...);'
-    onDeviceReady: function() {
-        app.receivedEvent('deviceready');
-    },
-    // Update DOM on a Received Event
-    receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
+var questionList = data;
+$(function(){
+  var cursor = window.localStorage.getItem('cursor');
+  if (!cursor) {
+    cursor = 0;
+  }
+  load(cursor);
+  $('#prev').on('click', function() {
+    if (cursor>0) {
+      cursor--;
+      load(cursor);
     }
-};
+  });
+
+  $('#next').on('click', function() {
+    if (cursor<questionList.length-1) {
+      cursor++;
+      load(cursor);
+    }
+  });
+
+  $('#go').on('click', function() {
+    var no = Number($('#questionNo').val());
+    if (no) {
+      var tempCursor = no - 1;
+      if (tempCursor >=0 && tempCursor <questionList.length) {
+        cursor = tempCursor;
+        load(cursor);
+      }
+    }
+  });
+
+  $('body').on('keypress', function(e) {
+    if (e.keyCode == 13) {
+      $('#go').trigger('click');
+    }
+  });
+});
+
+function load(cursor) {
+  window.localStorage.setItem('cursor', cursor);
+  var question = questionList[cursor];
+  $('#questionNo').val(Number(cursor)+1);
+  $('#questionName').html(question.name);
+  $('#questionStr').html(question.questionStr);
+  $('#questionImg').prop('src', 'img/' + question.imgName);
+  if (question.imgName.length>0) {
+    $('#questionImg').show();
+  } else {
+    $('#questionImg').hide();
+  }
+  $('#choices').html('');
+  $.each(question.question, function(key, value) {
+    var div = $('<div class="alert alert-info question"></div>');
+    div.html(key + ' : ' + value);
+    div.on('click', function() {
+      $(this).removeClass('alert-info');
+      $(this).addClass(key == question.answer ? 'alert-success' : 'alert-danger');
+    });
+    $('#choices').append(div);
+    $('#choices').append($('<p>'));
+  });
+}
